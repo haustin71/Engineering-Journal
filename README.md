@@ -24,3 +24,6 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ### Image
 
 <img src="Images/Base.jpg" alt="The Base" width="200" height="200">
+
+### Reflection
+This was the first onshape part that I completed. I think that I did a good job with creating the part mainly because of the helpful video. I learned what the difference between mirroring and creating a linear pattern. I struggled on the linear pattern part of the base because I was stuck on which direction to input to make the pattern face on the plane.
