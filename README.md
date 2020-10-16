@@ -103,4 +103,4 @@ These were the 6th, 7th and 8th parts of the caster. the axles dimensions are 2 
 <img src="Images/Base.jpg" alt="The Base" width="200" height="200">
 
 ### Reflection
-This was my sixth final three onshape parts that I completed. I think that I did a good job with creating the axle and collar but I had a little trouble on the bearing.
+This was my final three onshape parts that I completed. I think that I did a good job with creating the axle and collar but I had a little trouble on the bearing.
