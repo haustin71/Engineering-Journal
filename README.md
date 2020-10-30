@@ -11,6 +11,7 @@ We are creating a caster
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [
 
 ## Base
 
@@ -104,3 +105,19 @@ These were the 6th, 7th and 8th parts of the caster. the axles dimensions are 2 
 
 ### Reflection
 This was my final three onshape parts that I completed. I think that I did a good job with creating the axle and collar but I had a little trouble on the bearing.
+
+
+## Group collaboration
+
+### Description
+Me and my groupmates were tasked with designing a piston with base and a clear glass cylinder. The parts That I created were the outer clear cylinder and the base.
+
+### Evidence 
+[The Project](https://cvilleschools.onshape.com/documents/8ce50cca2e6c7825c3453041/w/1de116d2ab1d1cded21efc64/e/7514bad8eee4598461807817)
+
+### Image
+
+<img src="Images/Base.jpg" alt="The Base" width="200" height="200">
+
+### Reflection
+This was the first time I did a collarboration prolect and I think it went really good. We all did our parts to complete the assignment. During the time we worked on the project I learned how to create a folder for multiple parts. I also learned how to create an identical part by mirroring the origional part.
