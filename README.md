@@ -1,7 +1,7 @@
 # Engineering-Journal
 
 We are creating a caster
-
+We are Doing the basics of coding using Arduino
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
@@ -11,7 +11,13 @@ We are creating a caster
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [
+* [Hello Arduino](#Hello Arduino)
+* [Finite LED](#Finite LED)
+* [Variable LED](#Variable LED) 
+* [Button Activated LED](#1 Button 1 LED)
+* [2 Button 2 LED](#2 Button 2 LED)
+* [Servo Control](#Servo Control)
+
 
 ## Base
 
@@ -121,3 +127,94 @@ Me and my groupmates were tasked with designing a piston with base and a clear g
 
 ### Reflection
 This was the first time I did a collarboration prolect and I think it went really good. We all did our parts to complete the assignment. During the time we worked on the project I learned how to create a folder for multiple parts. I also learned how to create an identical part by mirroring the origional part.
+
+
+
+## Hello Arduino
+
+## Description
+This was my first Arduino assignment we were tasked with making an LED blink.
+## Code
+
+[Hello Arduino Code](https://create.arduino.cc/editor/haustin71/bbee976d-e7ab-4bc3-be49-c34314b9ef06)
+
+## Wiring for the Code
+
+
+## Reflection
+This was the first time that I have done code this year And I believe that I did well throughout the entire assignment. I learned how to connect different items on the breadboard and arduino uno to the code. I also learned what the terms Digital Read, Digital write, and Delay mean. 
+
+
+
+## Finite LED
+
+## Description
+This was the 2nd Arduino assignment I was tasked with making an LED blink on and off 5 times.
+## Code
+
+[Finite LED Code]()
+
+## Wiring for the Code
+
+
+
+## Reflection
+
+
+## Variable LED
+
+## Description
+This was the 3rd Arduino assignment I was tasked with making an LED blink continuously but it will blink faster each time
+## Code
+
+[Finite LED Code]()
+
+## Wiring for the Code
+
+
+
+## Reflection
+
+
+## 1 Button 1 LED
+
+## Description
+This was the 4th Arduino assignment I was tasked with making an LED blink when a button is pressed.
+## Code
+
+[Finite LED Code]()
+
+## Wiring for the Code
+
+
+
+## Reflection
+
+
+## 2 Button 2 LED
+
+## Description
+This was the 5th Arduino assignment I was tasked with making an LED blink when a button is pressed.
+## Code
+
+[Finite LED Code]()
+
+## Wiring for the Code
+
+
+
+## Reflection
+
+## Servo Control
+
+## Description
+This was the final Arduino assignment I was tasked with making a servo turn to a certain dgree by pressing one of the two buttons.
+## Code
+
+[Finite LED Code]()
+
+## Wiring for the Code
+
+
+
+## Reflection
