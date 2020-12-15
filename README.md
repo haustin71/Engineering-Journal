@@ -1,7 +1,6 @@
 # Engineering-Journal
 
-We are creating a caster
-We are Doing the basics of coding using Arduino
+We are creating a caster and going through the basics of coding using Arduino
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
