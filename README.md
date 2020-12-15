@@ -11,12 +11,12 @@ We are Doing the basics of coding using Arduino
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Hello Arduino](#Hello Arduino)
-* [Finite LED](#Finite LED)
-* [Variable LED](#Variable LED) 
-* [Button Activated LED](#1 Button 1 LED)
-* [2 Button 2 LED](#2 Button 2 LED)
-* [Servo Control](#Servo Control)
+* [Hello Arduino](#Hello-Arduino)
+* [Finite LED](#Finite-LED)
+* [Variable LED](#Variable-LED) 
+* [Button Activated LED](#1-Button-1-LED)
+* [2 Button 2 LED](#2-Button-2-LED)
+* [Servo Control](#Servo-Control)
 
 
 ## Base
