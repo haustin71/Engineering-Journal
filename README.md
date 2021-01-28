@@ -151,14 +151,14 @@ This was the first time that I have done code this year And I believe that I did
 This was the 2nd Arduino assignment I was tasked with making an LED blink on and off 5 times.
 ## Code
 
-[Finite LED Code]()
+[Finite LED Code](https://create.arduino.cc/editor/haustin71/7cc1189c-314d-403c-8e09-d47658522066)
 
 ## Wiring for the Code
 
 
 
 ## Reflection
-
+This code was ctually harder thant he later ones which was suprising. I thinkt that I did a good job and I tried a new code. I learned how to create a controlled blink and how to use a counter.
 
 ## Variable LED
 
