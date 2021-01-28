@@ -138,7 +138,7 @@ This was my first Arduino assignment we were tasked with making an LED blink.
 [Hello Arduino Code](https://create.arduino.cc/editor/haustin71/bbee976d-e7ab-4bc3-be49-c34314b9ef06)
 
 ## Wiring for the Code
-
+[TinkerCAD Wiring](https://www.tinkercad.com/things/bDw12RssE4R-led-blink-wiring/editel)
 
 ## Reflection
 This was the first time that I have done code this year And I believe that I did well throughout the entire assignment. I learned how to connect different items on the breadboard and arduino uno to the code. I also learned what the terms Digital Read, Digital write, and Delay mean. 
@@ -181,7 +181,7 @@ This was the 3rd Arduino assignment I was tasked with making an LED blink contin
 This was the 4th Arduino assignment I was tasked with making an LED blink when a button is pressed.
 ## Code
 
-[Finite LED Code]()
+[1button 1 LED](https://create.arduino.cc/editor/haustin71/d9051109-5008-4ba9-aeb6-87e380f95db7)
 
 ## Wiring for the Code
 
@@ -193,10 +193,10 @@ This was the 4th Arduino assignment I was tasked with making an LED blink when a
 ## 2 Button 2 LED
 
 ## Description
-This was the 5th Arduino assignment I was tasked with making an LED blink when a button is pressed.
+This was the 5th Arduino assignment I was tasked with making an LED blink when one of the buttons are pressed.
 ## Code
 
-[Finite LED Code]()
+[2 Button 2 LED](https://create.arduino.cc/editor/haustin71/02c6a816-dea0-482c-8d7c-263263551870)
 
 ## Wiring for the Code
 
